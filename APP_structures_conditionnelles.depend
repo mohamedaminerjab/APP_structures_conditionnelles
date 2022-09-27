@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664286781 source:c:\users\rjabo\desktop\medaminerjab\app_structures_conditionnelles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
