@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h> // fournit un ensemble de fonctions permettant la manipulation de dates, de temps et d'intervals.
+
 int main()
 {
     printf("******************** APP Structures Conditionnelles! ********************\n");
